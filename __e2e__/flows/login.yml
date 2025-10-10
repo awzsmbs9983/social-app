@@ -27,3 +27,5 @@ appId: xyz.blueskyweb.app
     text: "Not Now"
     optional: true
 - assertVisible: "Following"
+
+# Update: 2025-10-10
